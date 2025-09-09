@@ -38,7 +38,7 @@ jobs:
           node-version-file: package.json
 
       - name: Install Task
-        uses: go-task/action@v1
+        uses: go-task/action@main
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x
