@@ -2,7 +2,7 @@
   <a href="https://taskfile.dev">
     <img src="./res/task.png"  width="200px" height="200px" />
   </a>
-  <a href="https://taskfile.dev">
+  <a href="https://github.com/features/actions">
     <img src="./res/actions.png" width="200px" height="200px" />
   </a>
 
