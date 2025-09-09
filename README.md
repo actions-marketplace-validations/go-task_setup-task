@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://taskfile.dev">
-    <img src="./res/task.png"  width="200px" height="200px" />
+    <img src="./res/task.png"  width="200px" height="200px" alt="Task" />
   </a>
   <a href="https://github.com/features/actions">
-    <img src="./res/actions.png" width="200px" height="200px" />
+    <img src="./res/actions.png" width="200px" height="200px" alt="GitHub Actions" />
   </a>
 
   <h1>Task GitHub Action</h1>
