@@ -1,6 +1,6 @@
-name: "arduino/setup-task"
+name: "go-task/action"
 description: "Download Task and add it to the PATH"
-author: "Arduino"
+author: "Task"
 inputs:
   version:
     description: "Version to use. Example: 3.4.2"

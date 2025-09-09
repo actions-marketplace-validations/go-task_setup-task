@@ -5,7 +5,7 @@
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arduino/setup-task.git"
+    "url": "git+https://github.com/go-task/action.git"
   },
   "keywords": [
     "actions",
