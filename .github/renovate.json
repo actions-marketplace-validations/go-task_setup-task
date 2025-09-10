@@ -6,6 +6,5 @@
     "schedule:weekly",
     ":semanticCommitTypeAll(chore)"
   ],
-  "mode": "full",
-  "forkProcessing": "enabled"
+  "mode": "full"
 }

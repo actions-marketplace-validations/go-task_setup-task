@@ -1,4 +1,4 @@
-name: "go-task/action"
+name: "go-task/setup-task"
 description: "Download Task and add it to the PATH"
 author: "Task"
 inputs:
