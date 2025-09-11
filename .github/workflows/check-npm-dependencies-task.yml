@@ -85,7 +85,7 @@ jobs:
           node-version-file: package.json
 
       - name: Install Task
-        uses: go-task/setup-task@main
+        uses: go-task/setup-task@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x
@@ -142,7 +142,7 @@ jobs:
           node-version-file: package.json
 
       - name: Install Task
-        uses: go-task/setup-task@main
+        uses: go-task/setup-task@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x

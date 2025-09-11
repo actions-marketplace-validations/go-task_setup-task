@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.0.0 - 2025-09-10
 
 - Forked [arduino/setup-task](https://github.com/arduino/setup-task) (by @pd93).
 - Default `repo-token` to `{{github.token}}`
