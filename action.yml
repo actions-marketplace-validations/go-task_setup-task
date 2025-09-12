@@ -1,6 +1,9 @@
 name: "go-task/setup-task"
 description: "Download Task and add it to the PATH"
 author: "Task"
+branding:
+  icon: "box"
+  color: "blue"
 inputs:
   version:
     description: "Version to use. Example: 3.4.2"
